@@ -7,7 +7,6 @@
 <p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning PHP and React<br>🎲 Fun fact: sometimes I may be funny</p> -->
 
 <h2 align="left">🚀 Languages & Tools</h2>
-<h3> @school - Web dev / C# web-apps / PHP websites </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="5" />
@@ -16,8 +15,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="50" />
+</div>
+<p> Static websites. </p>
+<br/>
   
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
@@ -29,16 +31,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="50" />
+</div>
+<p> Client-server responsive web-apps. </p>
+<br/>
   
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="5" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
 </div>
+<p> Dynamic PHP websites using databases. </p>
+<br/>
 
-<h3> @work - IoT devices dashboard </h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="5" />
@@ -50,6 +56,7 @@
   <img width="5" />
   <img src="https://cdn.simpleicons.org/mui/007FFF" height="40" alt="materialui logo"  />
 </div>
+<p> IoT devices dashboard. </p>
 
 <h3> Other competences </h3>
 <div align="left">
@@ -62,8 +69,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
 <h2 align="left">⚡️ How to reach me</h2>
@@ -74,7 +79,7 @@
   <a href="mailto:marcoangioni2006@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/_marcxzz_" target="_blank">
+  <!-- <a href="https://www.instagram.com/_marcxzz_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="40" alt="instagram logo"  />
-  </a>
+  </a> -->
 </div>
