@@ -5,7 +5,7 @@
 <!--
 <h2 align="left">About me</h2>
 <p align="left">✨ Creating bugs since 2006<br>📚 I'm currently learning PHP and React<br>🎲 Fun fact: sometimes I may be funny</p> -->
-
+<!--
 <h2 align="left">🚀 Languages & Tools</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
